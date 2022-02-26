@@ -3,6 +3,8 @@
   
   # Description
   
+  [Video: How to install and run application](https://drive.google.com/file/d/16llPpET9zrUPxQyMbCV3qfWr2PPGMtPx/view)
+
   This project is all about teams. With this application, a user can run the inquirer prompts on their local CLI to add employees to their team, then an HTML page will be generated with a card for every team member!
 
   Each employee is generated through questions using the inquirer package in npm. Each employee can be given a role as Manager, Engineer or an Intern. Using classes, each employee is stored as an object.
