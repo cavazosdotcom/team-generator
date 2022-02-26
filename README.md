@@ -28,9 +28,7 @@
 
 # Links
 
-<!-- [my-Portfolio Github URL](https://cavazosdotcom.github.io/team-generator) -->
-
-[my-Portfolio Github Repo URL](https://github.com/cavazosdotcom/team-generator)
+[team-generator Github Repo URL](https://github.com/cavazosdotcom/team-generator)
 
 # Picture 
 
