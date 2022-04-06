@@ -28,28 +28,28 @@ test ("Employee can set email", () => {
 });
 
 // tests whether the employee can get a name
-test ("Employee can set name", () => {
+test ("Employee can get name", () => {
     const name = 'Dane'
     const e = new Employee( name );
     expect(e.getName()).toBe(name);
 });
 
 // tests whether the employee can get an id
-test ("Employee can set id", () => {
+test ("Employee can get id", () => {
     const id = 17
     const e = new Employee( 'Dane', id );
     expect(e.getId()).toBe(id);
 });
 
 // tests whether the employee can get an email
-test ("Employee can set email", () => {
+test ("Employee can get email", () => {
     const email = 'email@fakemail.com'
     const e = new Employee( 'Dane', 17, email );
     expect(e.getEmail()).toBe(email);
 });
 
 // tests whether the employee can get a role
-test ("Employee can set role", () => {
+test ("Employee can get role", () => {
     const e = new Employee();
     expect(e.getRole()).toBe('Employee');
 });
