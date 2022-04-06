@@ -4,6 +4,9 @@
   # Description
   
   [Video: How to install and run application](https://drive.google.com/file/d/16llPpET9zrUPxQyMbCV3qfWr2PPGMtPx/view)
+  
+  [In Depth Test Suite Demo](https://drive.google.com/file/d/1siNZcU_VckIT4K4tN1RsIE0uprrHFvqI/view)
+
 
   This project is all about teams. With this application, a user can run the inquirer prompts on their local CLI to add employees to their team, then an HTML page will be generated with a card for every team member!
 
