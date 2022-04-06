@@ -27,7 +27,7 @@ test ("Engineer can set email", () => {
 });
 
 // tests whether the Engineer can set a github
-test ("Engineer can get github", () => {
+test ("Engineer can set github", () => {
     const github = "username17"
     const e = new Engineer( 'Dane', 17, "email@fakemail.com", github );
     expect(e.github).toBe(github);

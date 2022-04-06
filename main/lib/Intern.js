@@ -9,13 +9,11 @@ class Intern extends Employee {
         super( name, id, email )
         // intern has uncommon data, school
         this.school = school
-
     }
     
     // returns the uncommon data
     getSchool() {
         return this.school;
-
     }
 
     // overrides the employee role with intern
